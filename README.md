@@ -31,7 +31,8 @@ A personalized book recommender system that suggests books to users based on the
 
 ## 📘 Dataset Description
 
-This project uses the [Book Crossing Dataset](http://www2.informatik.uni-freiburg.de/~cziegler/BX/) which includes:
+This project uses the [Book Crossing Dataset](https://www.kaggle.com/datasets/somnambwl/bookcrossing-dataset?resource=download) which includes:
+
 - **Books.csv** – Metadata such as title, author, and ISBN  
 - **Users.csv** – User IDs and demographics  
 - **Ratings.csv** – User ratings of books on a 0–10 scale  
